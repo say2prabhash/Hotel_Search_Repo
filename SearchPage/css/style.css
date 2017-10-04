@@ -99,11 +99,11 @@ p{
 {
     margin-top: 20px;
 }
-.header .btn
+/*.header .btn
 {
     border-radius: 0;
     margin: 40px 20px;
-}
+}*/
 @media(max-width:768px)
 {
     .header
