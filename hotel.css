@@ -328,3 +328,18 @@ p {
     padding-right: 10px;
     height: 45px;
 }
+@media only screen and (min-width:150px) and (max-width:600px)
+{
+    body, html {
+    font-size: 90%;
+        width: 90%;
+        #hotel-child-container {
+    width: 10%;
+    height: :40px;
+
+}
+}
+    
+    
+    
+}
