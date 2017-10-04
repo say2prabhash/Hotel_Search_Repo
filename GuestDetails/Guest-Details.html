@@ -1,0 +1,83 @@
+	<!doctype>
+	<!DOCTYPE html>
+	<html>
+	<head>
+		<title>GuestDetails</title>
+		<link rel="stylesheet" type="text/css" href="Guest-Details-style.css">
+		<script src="Guest-Details.js"></script>
+	</head>
+	<body>
+
+		<div class="main-container">
+			<div id="header">
+						<div id="logo"> 
+							 <img src="download.png" alt="Expedia">
+						</div>
+				<div id="wrapper">
+					<h1>Review And Book</h1>
+					<h3>Act fast!! Pricing and availability may change</h3>
+					<h4>Great choice! You choose the cheapest room</h4>
+
+					<p>Room 1</p>
+					<div id="parent-container">
+							<div class="container">
+										    <label><b>Contact Name</b></label>
+										    <input type="text" placeholder="Contact Name" name="contact Name" required>
+										    <br>
+										    <label><b>Country Code</b></label>
+										    <input type="Country Code" placeholder="Country Code" name="code" required>
+										    <br>
+										    <label><b>Mobile No</b></label>
+										    <input id="mobile" type="Mobile No" placeholder="Mobile No" name="mobile" required>
+										    <br>
+										
+
+
+
+											 <label><b>CardHolder Name</b></label>
+										    <input type="text" placeholder="CardHolder Name" name="CardHolder Name" required>
+										    <br>
+										    <label><b>Debit/Credit Card Number</b></label>
+										    <input type="text" placeholder="Card number" name="Card number" required>
+										    <br>
+										    <label><b>Expiry Date</b></label>
+										    
+										    <div>
+											    <select  id="expiration" name="year" id="year">
+		   										<option onclick="month()" value="">Select Year</option>
+												</select>
+												
+												 <select  id="expiration" name="month" id="month">
+		   										<option onclick="year()" value="">Select Month</option>
+												</select>
+
+											 
+											</div>
+		  
+										    <label><b>Security Code</b></label>
+										    <input id="card-number" type="text" placeholder="Card number" name="Card number" required>
+										    <br>
+
+
+
+										    <label><b>Email-Id</b></label>
+										    <input type="text" placeholder="Email-Id" name="Email-Id" required>
+							</div>
+
+							<div id="hotel-details">
+												
+
+							</div>
+
+					</div>
+
+					<button>
+						Complete Booking
+					</button>
+				</div>
+					
+			
+			</div>
+		</div>
+	</body>
+	</html>
