@@ -3,6 +3,7 @@
 	<html>
 	<head>
 		<title>GuestDetails</title>
+		<meta charset="utf-8">
 		<link rel="stylesheet" type="text/css" href="Guest-Details-style.css">
 		<script src="Guest-Details.js"></script>
 	</head>
@@ -31,29 +32,56 @@
 										    <input id="mobile" type="Mobile No" placeholder="Mobile No" name="mobile" required>
 										    <br>
 										
-
-
-
-											 <label><b>CardHolder Name</b></label>
-										    <input type="text" placeholder="CardHolder Name" name="CardHolder Name" required>
-										    <br>
+											<label><b>CardHolder Name</b></label>
+										    	<input type="text" placeholder="CardHolder Name" name="CardHolder Name" required>
+										    	<br>
 										    <label><b>Debit/Credit Card Number</b></label>
-										    <input type="text" placeholder="Card number" name="Card number" required>
-										    <br>
+										    	<input type="text" placeholder="Card number" name="Card number" required>
+										    	<br>
 										    <label><b>Expiry Date</b></label>
 										    
 										    <div>
-											    <select  id="expiration" name="year" id="year">
-		   										<option onclick="month()" value="">Select Year</option>
+											    <select  onchange="month()" id="expiration" name="year" >
+		   											<option  value="">Select Year</option>
+		   											<option  value="">January</option>
+		   											<option  value="">February</option>
+		   											<option  value="">March</option>
+		   											<option  value="">April</option>
+		   											<option  value="">May</option>
+		   											<option  value="">June</option>
+		   											<option  value="">July</option>
+		   											<option  value="">August</option>
+		   											<option  value="">September</option>
+		   											<option  value="">October</option>
+		   											<option  value="">November</option>
+													<option  value="">December</option>
 												</select>
 												
-												 <select  id="expiration" name="month" id="month">
-		   										<option onclick="year()" value="">Select Month</option>
+												 <select onchange="year()" id="expiration" name="month">
+		   											<option  value="">Select Year</option>
+		   											<option  value="">2017</option>
+		   											<option  value="">2018</option>
+		   											<option  value="">2019</option>
+		   											<option  value="">2020</option>
+		   											<option  value="">2021</option>
+		   											<option  value="">2022</option>
+		   											<option  value="">2023</option>
+		   											<option  value="">2024</option>
+		   											<option  value="">2025</option>
+		   											<option  value="">2026</option>
+		   											<option  value="">2027</option>
+		   											<option  value="">2028</option>
+		   											<option  value="">2029</option>
+		   											<option  value="">2030</option>
+		   											<option  value="">2031</option>
+		   											<option  value="">2032</option>
+		   											<option  value="">2033</option>
+		   											<option  value="">2034</option>
+		   											<option  value="">2035 </option>
 												</select>
-
 											 
 											</div>
-		  
+ 		  
 										    <label><b>Security Code</b></label>
 										    <input id="card-number" type="text" placeholder="Card number" name="Card number" required>
 										    <br>
