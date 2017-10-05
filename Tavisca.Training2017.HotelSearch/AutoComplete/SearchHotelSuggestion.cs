@@ -8,10 +8,11 @@ using System.Threading.Tasks;
 
 namespace AutoComplete
 {
-    public class Search
+    public class SearchHotelSuggestion
     {
         public async Task<string[]> GetSearchQueryData(string searchTerm)
         {
+            searchTerm=searchTerm.ToUpper();
             WebRequest req = WebRequest.Create(@"http://portal.dev-rovia.com/Services/api/Content/GetAutoCompleteDataGroups?type=hotel%7Cpoi&query="+searchTerm);
 
             req.Method = "GET";

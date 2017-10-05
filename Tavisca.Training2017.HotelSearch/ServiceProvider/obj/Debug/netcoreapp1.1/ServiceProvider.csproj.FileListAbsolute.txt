@@ -1,0 +1,10 @@
+D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\ServiceProvider\bin\Debug\netcoreapp1.1\ServiceProvider.deps.json
+D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\ServiceProvider\bin\Debug\netcoreapp1.1\ServiceProvider.dll
+D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\ServiceProvider\bin\Debug\netcoreapp1.1\ServiceProvider.pdb
+D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\ServiceProvider\bin\Debug\netcoreapp1.1\AutoComplete.dll
+D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\ServiceProvider\bin\Debug\netcoreapp1.1\AutoComplete.pdb
+D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\ServiceProvider\obj\Debug\netcoreapp1.1\ServiceProvider.csprojResolveAssemblyReference.cache
+D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\ServiceProvider\obj\Debug\netcoreapp1.1\ServiceProvider.csproj.CoreCompileInputs.cache
+D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\ServiceProvider\obj\Debug\netcoreapp1.1\ServiceProvider.AssemblyInfo.cs
+D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\ServiceProvider\obj\Debug\netcoreapp1.1\ServiceProvider.dll
+D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\ServiceProvider\obj\Debug\netcoreapp1.1\ServiceProvider.pdb

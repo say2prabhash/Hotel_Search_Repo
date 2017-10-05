@@ -35,5 +35,43 @@ $("#rooms").on("change",function(){
   						$("#rooms-info").append(appendRoomInfo);
   						}
 	 });
-
+		$("#Location").on("input",function(){
+			// var searchTerm="";
+   //  	if($("#Location").val()=="")
+   //  	{
+   //  		searchTerm="A";
+   //  	}
+   //  	else
+   //  	{
+   //  		searchTerm=$("#Location").val();
+   //  	}
+         try {
+             $.ajax({
+                 type: "GET",
+                 url: "http://localhost:51052//index/AutoComplete/search/"+$("#Location").val(),
+                 cache: false,
+                 success: getSuccess,
+                 
+             });
+         } catch (e) {
+             alert(e);
+         }
+         function getSuccess(data) {
+         	var obj=JSON.parse(data);
+         	var str= new Array(obj.length);
+         	for(var i=0;i<obj.length;i++)
+         	{
+         		str[i]=obj[i].HotelName+","+obj[i].CityName+","+obj[i].StateCode+","+obj[i].CountryCode;
+         	}
+         	 $( "#Location" ).autocomplete({
+         	
+      source:str,
+      minLength: 2,
+      // select: function( event, ui ) {
+      //   log( "Selected: " + ui.item.value + " aka " + ui.item.id );
+      // }
+    } );
+     };
+         
+ });
 	});
