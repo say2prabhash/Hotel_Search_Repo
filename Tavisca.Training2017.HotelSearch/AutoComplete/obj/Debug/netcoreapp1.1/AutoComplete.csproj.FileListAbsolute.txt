@@ -1,8 +1,0 @@
-D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\AutoComplete\bin\Debug\netcoreapp1.1\AutoComplete.deps.json
-D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\AutoComplete\bin\Debug\netcoreapp1.1\AutoComplete.dll
-D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\AutoComplete\bin\Debug\netcoreapp1.1\AutoComplete.pdb
-D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\AutoComplete\obj\Debug\netcoreapp1.1\AutoComplete.csprojResolveAssemblyReference.cache
-D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\AutoComplete\obj\Debug\netcoreapp1.1\AutoComplete.csproj.CoreCompileInputs.cache
-D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\AutoComplete\obj\Debug\netcoreapp1.1\AutoComplete.AssemblyInfo.cs
-D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\AutoComplete\obj\Debug\netcoreapp1.1\AutoComplete.dll
-D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\AutoComplete\obj\Debug\netcoreapp1.1\AutoComplete.pdb
