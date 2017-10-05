@@ -1,0 +1,15 @@
+D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\MultiAvailApi\obj\Debug\netcoreapp1.1\MultiAvailApi.csproj.CoreCompileInputs.cache
+D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\MultiAvailApi\obj\Debug\netcoreapp1.1\MultiAvailApi.AssemblyInfo.cs
+D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\MultiAvailApi\obj\Debug\netcoreapp1.1\MultiAvailApi.dll
+D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\MultiAvailApi\obj\Debug\netcoreapp1.1\MultiAvailApi.pdb
+D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\MultiAvailApi\bin\MultiAvailApi.deps.json
+D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\MultiAvailApi\bin\MultiAvailApi.runtimeconfig.json
+D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\MultiAvailApi\bin\MultiAvailApi.runtimeconfig.dev.json
+D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\MultiAvailApi\bin\MultiAvailApi.dll
+D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\MultiAvailApi\bin\MultiAvailApi.pdb
+D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\MultiAvailApi\bin\Debug\netcoreapp1.1\MultiAvailApi.deps.json
+D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\MultiAvailApi\bin\Debug\netcoreapp1.1\MultiAvailApi.runtimeconfig.json
+D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\MultiAvailApi\bin\Debug\netcoreapp1.1\MultiAvailApi.runtimeconfig.dev.json
+D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\MultiAvailApi\bin\Debug\netcoreapp1.1\MultiAvailApi.dll
+D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\MultiAvailApi\bin\Debug\netcoreapp1.1\MultiAvailApi.pdb
+D:\Hotel_Search_Repo\Tavisca.Training2017.HotelSearch\MultiAvailApi\obj\Debug\netcoreapp1.1\MultiAvailApi.csprojResolveAssemblyReference.cache
