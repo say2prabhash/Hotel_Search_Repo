@@ -158,3 +158,10 @@ fieldset
     }
     
 }
+button, select {
+    text-transform: none;
+    color: black;
+}
+.text-info {
+    color:white;
+}
